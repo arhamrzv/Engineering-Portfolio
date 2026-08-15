@@ -2,6 +2,17 @@
 
 Engineering projects, CAD models, drawings, and technical work.
 
+## About Me
+
+I am an engineering-focused student at the University of Houston with an interest in mechanical design, CAD, manufacturing, and problem-solving. I am currently building my technical experience through engineering coursework and hands-on projects.
+
+## Technical Skills
+
+- Autodesk Fusion 360
+- 3D CAD Modeling
+- Microsoft Excel
+- Engineering Design
+  
 ## Projects
 
 ### Blower Compressor
