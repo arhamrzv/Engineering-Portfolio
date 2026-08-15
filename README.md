@@ -9,6 +9,19 @@ Engineering projects, CAD models, drawings, and technical work.
 
 ![Blower Compressor CAD Model](blower-compressor-isometric.png.png)
 
-A CAD modeling project focused on the design and assembly of a mechanical blower compressor.
+#### Project Overview
+Created a detailed 3D model of a mechanical blower compressor in Autodesk Fusion 360. The model incorporates a multi-part housing, mounting flanges, fastener locations, cooling fins, and other mechanical features to reproduce the geometry of a real-world mechanical assembly.
 
-**Skills:** 3D Modeling • CAD • Mechanical Design • Autodesk Fusion 360
+#### CAD Skills Demonstrated
+- Parametric 3D modeling
+- Sketching and dimensional constraints
+- Extrusions and revolved features
+- Circular patterns and repeated geometry
+- Fillets and detailed mechanical features
+- Multi-component mechanical modeling
+
+#### What I Learned
+This project strengthened my ability to translate mechanical geometry into a structured 3D CAD model and showed me how individual features and components come together to form a more complex mechanical system.
+
+#### Project Files
+- [Download Fusion 360 Model](BlowerCompressor.f3d)
