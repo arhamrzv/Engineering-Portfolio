@@ -7,7 +7,7 @@ Engineering projects, CAD models, drawings, and technical work.
 ### Blower Compressor
 **Autodesk Fusion 360**
 
-![Blower Compressor CAD Model](blower-compressor-isometric.png)
+![Blower Compressor CAD Model](blower-compressor-isometric.png.png)
 
 A CAD modeling project focused on the design and assembly of a mechanical blower compressor.
 
