@@ -18,7 +18,7 @@ I am an engineering-focused student at the University of Houston with an interes
 ### Blower Compressor
 **Autodesk Fusion 360**
 
-![Blower Compressor CAD Model](blower-compressor-isometric.png.png)
+![Blower Compressor CAD Model](blower-compressor-isometric.png)
 
 #### Additional Views
 
