@@ -20,6 +20,12 @@ I am an engineering-focused student at the University of Houston with an interes
 
 ![Blower Compressor CAD Model](blower-compressor-isometric.png.png)
 
+#### Additional Views
+
+| Front View | Right-Side View |
+|---|---|
+| ![Blower Compressor Front View](blower-compressor-front-view.png) | ![Blower Compressor Right Side View](blower-compressor-right-side-view.png) |
+
 #### Project Overview
 Created a detailed 3D model of a mechanical blower compressor in Autodesk Fusion 360. The model incorporates a multi-part housing, mounting flanges, fastener locations, cooling fins, and other mechanical features to reproduce the geometry of a real-world mechanical assembly.
 
