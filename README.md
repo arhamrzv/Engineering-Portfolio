@@ -1,4 +1,4 @@
-# Syed Rizvi | Engineering Portfolio
+# Syed Arham Rizvi | Engineering Portfolio
 
 Engineering projects, CAD models, drawings, and technical work.
 
